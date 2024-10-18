@@ -1,6 +1,8 @@
 ## Hi there 👋
 ▶️My name is Bartosz.
+
 ▶️Currently im a student Gdansk University of Technology, 1st year of Computer Science 💻.
+
 ▶️I’m currently learning Web App Design.
 
 <!--
