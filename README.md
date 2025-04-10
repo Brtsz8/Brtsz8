@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-💻I’m currently a student at Gdansk University of Technology, 1st year of Computer Science. <br><br>🔭 I’m currently working on a Titanic Survival Prediction project using Pandas, Scikit-Learn, NumPy, Seaborn, and PyTorch.<br><br>👯 I’m looking to collaborate on machine learning and deep learning projects, especially related to data analysis and predictive modeling.<br><br>🌱 I’m currently learning OpenCV for computer vision and ChatGPT API for integrating AI-powered applications.
+💻I’m currently a student at Gdansk University of Technology, 1st year of Computer Science. <br><br>🔭 I’m currently working on a Titanic Survival Prediction project using Pandas, Scikit-Learn, NumPy, Seaborn, and PyTorch.<br><br>🤝 I’m looking to collaborate on machine learning and deep learning projects, especially related to data analysis and predictive modeling.<br><br>🌱 I’m currently learning OpenCV for computer vision and ChatGPT API for integrating AI-powered applications.
 
 
 ## 🌐 Socials:
