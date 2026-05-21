@@ -1,73 +1,38 @@
-# Hi, I'm Bartosz 👋
+# Bartosz Pacyga
 
-Computer Science student at Gdańsk University of Technology interested in backend development, data analysis and machine learning.
-
-I enjoy building backend systems, working with APIs and exploring how software can interact with data.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-JavaScript • Python • C++
-
-**Backend**
-
-Node.js • Express
-
-**Data / ML**
-
-NumPy • Pandas • Scikit-learn
-
-**Tools**
-
-Git • Docker • Linux
-
-**Databases**
-
-MongoDB • PostgreSQL (learning)
+Backend-focused CS student at Gdańsk University of Technology (soon 3rd year).
+Building web applications with Node.js, exploring full-stack development and ML.
 
 ---
 
-## 🚀 Projects
+## Stack
 
-### Image Classifier
-
-Machine learning project that classifies images using Python.
-
-Tech: Python, NumPy, Pandas, Scikit-learn
-https://github.com/Rommanowski/image-classifier
-
----
-
-### UFC Dataset Analysis
-
-Data analysis project exploring patterns in UFC fight statistics.
-
-Tech: Python, Pandas, NumPy
-https://github.com/Brtsz8/ufc-dataset-analysis
+**Backend** — Node.js, Express, Prisma  
+**Database** — PostgreSQL, MongoDB  
+**Frontend** — React, Vite, Tailwind CSS (basics)  
+**ML / Data** — Python, NumPy, Pandas, Scikit-learn  
+**Tools** — Git, Docker, Linux
 
 ---
 
-### Java OOP Simulation
+## Projects
 
-Object-oriented simulation project implemented in Java.
+**[flashcard-ai](https://github.com/Brtsz8/flashcard-ai)**  
+AI-powered flashcard generator. React + Vite frontend, Node.js/Express backend, Google OAuth, Gemini API for flashcard generation from user input.
 
-Tech: Java, OOP
-https://github.com/Brtsz8/java-oop-simulation
+**[ufc-dataset-analysis](https://github.com/Brtsz8/ufc-dataset-analysis)**  
+Exploratory data analysis of UFC fight statistics. Pattern detection across fighter attributes and outcomes using Pandas + NumPy.
 
----
-
-## 📚 Currently Learning
-
-* PostgreSQL
-* Backend architecture
-* Authentication systems
-* Building scalable APIs
+**[image-classifier](https://github.com/Rommanowski/image-classifier)**  
+Image classification with Scikit-learn. Built as an intro to ML pipelines.
 
 ---
 
-## 🌍 Connect with me
+## Currently
 
-LinkedIn: [www.linkedin.com/in/bartosz-pacyga-914050355](http://www.linkedin.com/in/bartosz-pacyga-914050355)
+Working on a GeoGuessr-inspired app — backend in Node.js/Express.  
+Deepening backend architecture knowledge: auth systems, REST design, database modeling.
+
+---
+
+[linkedin.com/in/bartosz-pacyga-914050355](https://www.linkedin.com/in/bartosz-pacyga-914050355)
