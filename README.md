@@ -17,7 +17,7 @@ Building web applications with Node.js, exploring full-stack development and ML.
 
 ## Projects
 
-**[flashcard-ai](https://github.com/Brtsz8/flashcard-ai)**  
+**[flashcard-generator](https://github.com/Brtsz8/flashcard-generator)**  
 AI-powered flashcard generator. React + Vite frontend, Node.js/Express backend, Google OAuth, Gemini API for flashcard generation from user input.
 
 **[ufc-dataset-analysis](https://github.com/Brtsz8/ufc-dataset-analysis)**  
